@@ -17,3 +17,4 @@ speed of infection and infection rate.
 
 Furthermore, predicting the coronavirus cases for US and Canada using ARIMA time series modelling using China's data as training model. 
 
+<img src="ARIMA_Case_Prediction.JPG">
